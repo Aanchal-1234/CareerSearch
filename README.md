@@ -54,42 +54,31 @@ To install django in your system run the following command cmd:
 
 #### **Home**
 
-
 **When we click on the website link, we will be directed to the home page which will look like this:**<br>
-
-![1](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/1.png)
-
+![1](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS1.png)
 
 
 #### **About-us**
 
 **On clicking the “About” button on the navbar, we will be redirected to the about-us section.**<br>
-
-![ab-1](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-1.png)
-![ab-2](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-2.png)
-![ab-3](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-3.png)
-![ab-4](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-4.png)
+![2](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS2.png)
 
 #### **Contact-us**
 
-
 **On clicking the “Contact-Us” button on the navbar, we will be redirected to the contact-us section** <br>
-![5](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/5.png)
+![3](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS3.png)
 
 ### **Occupations Page:**
 
 **If we click on "Occupations" on the navbar, we will be directed to a page where all the occupations will be listed and this page will look like this:**
 <br><br>
-![10](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/10.png)
-
+![occ-1](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS4.png)
+![occ-2](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS5.png)
+![occ-3](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS6.png)
 
 **We can click on "Learn More" to see full details about any occupation**<br><br>
-![11](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/11.png)
-
-**By clicking “Documents-Link”, we can view all the uploaded documents**<br><br>
-![doc-1](https://github.com/Aanchal-1234/photos/blob/3733c0d3fc98b00004e2600d616ea59b323514c3/pics/doc-1.png)
-![doc-2](https://github.com/Aanchal-1234/photos/blob/3733c0d3fc98b00004e2600d616ea59b323514c3/pics/doc-2.png)
-![doc-3](https://github.com/Aanchal-1234/photos/blob/3733c0d3fc98b00004e2600d616ea59b323514c3/pics/doc-3.png)
+![SWE-1](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS7.png)
+![SWE-2](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS8.png)
 
 **The full details of any occupation includes**
   1. About the occupation 
@@ -101,3 +90,6 @@ To install django in your system run the following command cmd:
   7. Salary and Job Outlook
   8. Top Employers and Opportunities
   9. Real Day at the Job Video
+
+<h2>We have added a chatbot feature to resolve doubts quickly and efficiently. it will also improve the user experience</h2>
+![chatbot](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS9.jpeg)

@@ -1,0 +1,83 @@
+.btn {
+    border: 2px solid white;
+    background-color: brown;
+    color: white;
+    margin: 17px;
+    font-size: 1 rem;
+    border-radius: 10px;
+    cursor: pointer;
+    width: fit-content;
+}
+
+.center {
+    text-align: center;
+}
+
+#jobs {
+    display: inline;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.container-all {
+    padding: 0px 40px 0px 40px;
+}
+
+.card {
+    display: inline !important;
+    padding: 15px !important;
+    min-height: 100 !important;
+}
+
+.card img {
+    display: inline !important;
+    margin: 0px !important;
+    float: left !important;
+}
+
+.center {
+    border-style: solid;
+    padding: 10px;
+    background-color: black;
+    color: antiquewhite;
+    align-self: center;
+}
+
+.grid--item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify !important;
+}
+
+.top-left {
+    position: absolute;
+    top: 200px;
+    left: 325px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    width: 600px;
+    position: absolute;
+    top: 37%;
+    left: 7%;
+    right: 400px;
+}
+
+.d-flex p1 {
+    text-align: center;
+}
+
+.para {
+    padding-right: 20px;
+}
+
+.carousel-item {
+    height: 650px;
+}

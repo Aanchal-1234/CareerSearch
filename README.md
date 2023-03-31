@@ -2,7 +2,7 @@
 
 <h2 align="center">  careersearch.com<br> --Aage ka kya plan hai? <br></h2>
 
-## [Demo Video](https://drive.google.com/file/d/1gcXkQ3xwLII3GP2bdWbmIk8QyQ0zjAJL/view?usp=sharing)
+## [Demo Video](https://youtu.be/y-5oG5X_kV8)
 
 <h2>Table of Contents</h2>
   1. About The Project<br>
@@ -11,10 +11,12 @@
 
 <h2>About the projects</h2>
 Welcome to Career Search, your one-stop destination for exploring various career options available to students.
+<br>
 We understand that choosing a career path can be a daunting task, but our platform is designed to make it easier for you.
 Our website provides comprehensive information on different career paths, including eligibility criteria, degree requirements, and skills needed for each job. We have collaborated with top colleges and universities to bring you up-to-date information on the courses they offer that can help you achieve your career goals.
 One of the unique features of our website is that we provide videos of a real day at the job, giving you an inside look at what it's like to work in a particular field. This feature can help you gain a better understanding of what is expected from employees in a particular job and can help you make informed decisions about your career.
 Whether you are a high school student, a college student, or a professional looking to switch careers, our website is the perfect resource for you. We are committed to helping you find your dream career and providing you with all the information you need to succeed.
+<br>
 Thank you for choosing Career Search, and we look forward to helping you achieve your career goals!
 
 ### **Compatible Platforms**
@@ -29,23 +31,16 @@ Frame-work - Django<br>
 
 ### **Prerequisites**
 
-Make sure you have following softwares downloaded in your system:
-<br>Cmake
-<br>python
+Make sure you have Python downloaded in your system:
+<br>
 
 ### **Installation**
 
-To install django in your system run the following command cmd:
+To install django in your system run the following command on cmd:
 
         pip install django
 
-<br>To install opencv on your systems run the following command on cmd:
-
-        pip3 install opencv-python
-
-<br>To install numpy to your system run the following command on cmd:
-
-        pip install numpy
+<br>
 
 
 <h2>Navigating through the website</h2>
@@ -92,7 +87,7 @@ To install django in your system run the following command cmd:
   9. Real Day at the Job Video <br>
   <br><br>
 
-**One of the salient features is a chatbot feature to resolve doubts quickly and efficiently. It will also improve the user experience**
+**One of the salient features is a chatbot feature to resolve doubts quickly and efficiently. It will also improve the user experience.**
 <br> <br>
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS9.png">

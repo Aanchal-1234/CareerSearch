@@ -60,7 +60,7 @@ To install django in your system run the following command cmd:
 
 #### **About-us**
 
-**On clicking the “About” button on the navbar, we will be redirected to the about-us section.**<br>
+**On clicking the “About Us” button on the navbar, we will be redirected to the about-us section.**<br>
 ![2](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS2.png)
 
 #### **Contact-us**
@@ -91,5 +91,7 @@ To install django in your system run the following command cmd:
   8. Top Employers and Opportunities
   9. Real Day at the Job Video
 
-<h2>We have added a chatbot feature to resolve doubts quickly and efficiently. it will also improve the user experience</h2>
-![chatbot](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS9.jpeg)
+<h2>We have added a chatbot feature to resolve doubts quickly and efficiently. It will also improve the user experience</h2>
+<br>
+![chatbot](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS9.png)
+![chatbot](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS9.png)

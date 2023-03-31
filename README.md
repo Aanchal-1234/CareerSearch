@@ -73,25 +73,27 @@ To install django in your system run the following command cmd:
 **If we click on "Occupations" on the navbar, we will be directed to a page where all the occupations will be listed and this page will look like this:**
 <br><br>
 ![occ-1](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS4.png)
-![occ-2](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS5.png)
+![occ-2](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS5new.png)
 ![occ-3](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS6.png)
 
 **We can click on "Learn More" to see full details about any occupation**<br><br>
 ![SWE-1](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS7.png)
 ![SWE-2](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS8.png)
 
-**The full details of any occupation includes**
-  1. About the occupation 
-  2. Education and Training Requirements
-  3. Required Skills and Experience
-  4. Best colleges/Universities
-  5. Exam Details
-  6. Job Duties and Responsibilities
-  7. Salary and Job Outlook
-  8. Top Employers and Opportunities
-  9. Real Day at the Job Video
+<h2>The full details of any occupation includes</h2>
+  1. About the occupation <br>
+  2. Education and Training Requirements <br>
+  3. Required Skills and Experience <br>
+  4. Best colleges/Universities <br>
+  5. Exam Details <br>
+  6. Job Duties and Responsibilities <br>
+  7. Salary and Job Outlook <br>
+  8. Top Employers and Opportunities <br>
+  9. Real Day at the Job Video <br>
+  <br><br>
 
-<h2>We have added a chatbot feature to resolve doubts quickly and efficiently. It will also improve the user experience</h2>
-<br>
-![chatbot](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS9.png)
-![chatbot](https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS9.png)
+**One of the salient features is a chatbot feature to resolve doubts quickly and efficiently. It will also improve the user experience**
+<br> <br>
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/Aanchal-1234/photos/blob/main/CareerSearch/CS9.png">
+</p>
